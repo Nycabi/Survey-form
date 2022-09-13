@@ -35,8 +35,7 @@ body::before {
       115deg,
       rgba(242, 135, 5, 0.8),
       rgba(217, 82, 4, 0.7)
-    ),
-    url(https://images.pexels.com/photos/1690355/pexels-photo-1690355.jpeg);
+    ), url(https://images.pexels.com/photos/1690355/pexels-photo-1690355.jpeg);
   background-size: cover;
   background-repeat: no-repeat;
   background-position: center;
