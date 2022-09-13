@@ -2,8 +2,8 @@
 
 :root {
   --color-white: #f3f3f3;
-  --color-darkblue: #593202;
-  --color-darkblue-alpha: rgba(115, 107, 2, 0.8);
+  --color-darkbrown: #593202;
+  --color-darkbrown-alpha: rgba(115, 107, 2, 0.8);
   --color-green: #F29F05;
 }
 
@@ -114,7 +114,7 @@ button {
 /* form */
 
 form {
-  background: var(--color-darkblue-alpha);
+  background: var(--color-darkbrown-alpha);
   padding: 2.5rem 0.625rem;
   border-radius: 0.25rem;
 }
